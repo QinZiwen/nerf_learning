@@ -1,0 +1,3 @@
+[submodule "nerf-pytorch"]
+	path = nerf-pytorch
+	url = git@github.com:yenchenlin/nerf-pytorch.git
